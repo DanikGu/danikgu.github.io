@@ -1,0 +1,84 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 72496ff..4c5732d 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -56,41 +56,42 @@[m
+           </div>[m
+         </div>[m
+       </div>[m
+[31m-      <div class="col-12 p-4">[m
+[31m-        <h3 class="text-success">Work Experience</h3>[m
+[31m-        <hr>[m
+[31m-        <div class="col-12">[m
+[31m-          <h4 class="text-secondary">Full-Stack Developer</h4>[m
+[31m-          <strong>UDS Systems</strong> ➢ Kyiv City ➢ 2022-2024<br>[m
+[31m-          <strong>Tech stack:</strong> ASP.NET, React, MSSQL, Azure functions, Service Bus[m
+[31m-          <ul>[m
+[31m-            <li>Developed ASP.NET web APIs and scheduled jobs to fulfill business requirements. Creating pages for[m
+[31m-              PowerApps using React</li>[m
+[31m-            <li>Contributed to an audit management system enhancement, optimizing data aggregation from multiple[m
+[31m-              sources.</li>[m
+[31m-          </ul>[m
+[31m-        </div>[m
+[31m-[m
+[32m+[m[32m      <div class="col-11 p-4">[m
+[32m+[m[32m        <h4 class="text-success">Work Experience</h3>[m
+[32m+[m[32m          <hr>[m
+[32m+[m[32m          <div class="col-11">[m
+[32m+[m[32m            <h5 class="text-secondary">Full-Stack Developer</h5>[m
+[32m+[m[32m            <strong>UDS Systems</strong> ➢ Kyiv City ➢ 2023-2024<br>[m
+[32m+[m[32m            <strong>Tech stack:</strong> ASP.NET, React, MSSQL, Azure Functions, Service Bus, Umbraco[m
+[32m+[m[32m            <ul>[m
+[32m+[m[32m              <li>Developed ASP.NET web APIs and scheduled jobs to fulfill business requirements.</li>[m
+[32m+[m[32m              <li>Created pages for PowerApps using React.</li>[m
+[32m+[m[32m              <li>Contributed to an audit management system enhancement, optimizing data aggregation from multiple[m
+[32m+[m[32m                sources.</li>[m
+[32m+[m[32m              <li>Designed and developed the company website using Umbraco CMS</li>[m
+[32m+[m[32m            </ul>[m
+[32m+[m[32m          </div>[m
+ [m
+[31m-        <div class="col-12">[m
+[31m-          <h4 class="text-secondary">Full-Stack Developer</h4>[m
+[31m-          <strong>Creatio</strong> ➢ Kyiv City ➢ 2021 – 2022<br>[m
+[31m-          <strong>Tech stack:</strong> ASP.NET, Oracle, Ext JS[m
+[31m-          <ul>[m
+[31m-            <li>Streamlined front-end and back-end processes for improved system performance.</li>[m
+[31m-            <li>Enhanced a CRM solution for a European bank, refining logic and resolving defects.</li>[m
+[31m-          </ul>[m
+[31m-        </div>[m
+[32m+[m[32m          <div class="col-11">[m
+[32m+[m[32m            <h5 class="text-secondary">Full-Stack Developer</h5>[m
+[32m+[m[32m            <strong>Creatio</strong> ➢ Kyiv City ➢ 2022<br>[m
+[32m+[m[32m            <strong>Tech stack:</strong> ASP.NET, Ext JS, Oracle[m
+[32m+[m[32m            <ul>[m
+[32m+[m[32m              <li>Streamlined front-end and back-end processes for improved system performance.</li>[m
+[32m+[m[32m              <li>Enhanced a CRM solution for a European bank, refining logic and resolving defects.</li>[m
+[32m+[m[32m            </ul>[m
+[32m+[m[32m          </div>[m
+ [m
+[31m-        <div class="col-12">[m
+[31m-          <h4 class="text-secondary">Full-Stack Developer</h4>[m
+[31m-          <strong>Mekashron</strong> ➢ Remote ➢ 2020 – 2021<br>[m
+[31m-          <strong>Tech stack:</strong> ASP.NET MVC, jQuery, MSSQL[m
+[31m-          <ul>[m
+[31m-            <li>Engineered web APIs and corresponding front-end interfaces.</li>[m
+[31m-            <li>Built and maintained a restaurant-oriented CRM system.</li>[m
+[31m-          </ul>[m
+[31m-        </div>[m
+[32m+[m[32m          <div class="col-11">[m
+[32m+[m[32m            <h5 class="text-secondary">Full-Stack Developer</h5>[m
+[32m+[m[32m            <strong>Mekashron</strong> ➢ Remote ➢ 2021<br>[m
+[32m+[m[32m            <strong>Tech stack:</strong> ASP.NET MVC, jQuery, MSSQL, Umbraco[m
+[32m+[m[32m            <ul>[m
+[32m+[m[32m              <li>Engineered web APIs and corresponding front-end interfaces.</li>[m
+[32m+[m[32m              <li>Built and maintained a restaurant-oriented CRM system.</li>[m
+[32m+[m[32m              <li>Implemented and maintained websites using Umbraco CMS.</li>[m
+[32m+[m[32m            </ul>[m
+[32m+[m[32m          </div>[m
+       </div>[m
+       <div class="col-12 p-4">[m
+         <h3 class="text-success">Technical Skills</h3>[m
+[1mdiff --git a/photo_2024-06-28_20-48-36.jpg b/photo_2024-06-28_20-48-36.jpg[m
+[1mdeleted file mode 100644[m
+[1mindex 18d4222..0000000[m
+Binary files a/photo_2024-06-28_20-48-36.jpg and /dev/null differ
